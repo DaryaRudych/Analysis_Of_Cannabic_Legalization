@@ -1,19 +1,19 @@
-### Group 1: Bowie Hand, Darya Rudych, Jessica Serna, Lu Wang, Shweta Banerjee, Yedidya Erque
+### Presented by: 
+Bowie Hand, Darya Rudych, Jessica Serna, Lu Wang, Shweta Banerjee, Yedidya Erque
 
 # Project Title: Impacts of Marijuana Legalization
 
 ![WeedGIF](Images/3-Readme-Gif.gif)
 
 ## Objective:
-Recreational marijuana is always a hotly debated subject. Through this project, we wanted to understand the Impact of legalizing recreational Marijuana on the States. We will be doing an exploration of various factors like GDP, Population, Employment etc. to draw pre- and post-legalization effects. Through our project, we aim to study and understand several facts and figures to find the answer to the question "Is the criticism of recreational marijuana fair?".
+Recreational marijuana is always a hotly debated subject. Through this project, we wanted to understand the Impact of legalizing recreational marijuana on the states. We will be doing an exploration of various factors like GDP, Population, Employment etc. to identify pre- and post-legalization effects. Through our project, we aim to study and understand several facts and figures to find the answer to the question "Is the criticism of recreational marijuana fair from the economic perspective?".
 
-![ProjectIcon](Images/1-Project2-Icon.jpg)
+![ProjectIcon](https://media.giphy.com/media/3d2wgrPNcBqocFzFbJ/giphy.gif)
 
 ## Dataset:
 The dataset we will be using contains information about the states that have legalized marijuana and the key metrics that have been affected. Specifically, the dataset includes information on:
 1. **Population**
 2. **Employment**
-![Employment](Images/2-Employment.jpg)
 3. **Unemployment Rates**
 4. **Gross Domestic Product (GDP)**
 5. **Tax Revenue**
